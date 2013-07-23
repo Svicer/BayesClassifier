@@ -1,2 +1,1 @@
-BayesClassifier
-===============
+Naive Bayes classifier
